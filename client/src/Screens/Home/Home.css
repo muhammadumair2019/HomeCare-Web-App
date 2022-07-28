@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 100vh;
+}
+.logo {
+    height: 48px;
+    padding: 2px;
+}
+.navbar-style{
+    box-shadow: 0px 5px 10px #efefef;
+}
+.navbar-header{
+    display: flex;
+}
+
+
+
+.homeimg{
+    height: 300px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.leftarea{
+    margin-top: 50px;
+}
+
+.buttons {
+    padding: 2px;
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
